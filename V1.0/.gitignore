@@ -1,0 +1,7 @@
+testing
+test*
+next
+*.pyc
+*.dat
+*.spec
+*.iss
