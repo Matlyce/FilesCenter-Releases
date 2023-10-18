@@ -6,7 +6,7 @@ FilesCenter is an application that allows you to share files with anyone using a
 
 # How to use it ?
 
-![[GIF](https://www.youtube.com/watch?v=Ym6YpP5yve0)](https://github.com/Matlyce/FilesCenter-Private/assets/85689655/1b6f75ed-bada-4cf5-8ff2-ececb8cc799f)
+https://github.com/Matlyce/FilesCenter-Releases/assets/85689655/122ab119-5d5c-4c99-a37a-077f0de7c39c
 
 **1.** Import files simply by using drag and drop.<br>
 **2.** Right-click on the file you want to send and select "**Share File**".<br>
@@ -17,6 +17,6 @@ FilesCenter is an application that allows you to share files with anyone using a
 
 # How to install ?
 
-**1.** Go to the [release](https://github.com/Matlyce/FilesCenter-Private/releases) page, select the latest version, and download it.<br>
+**1.** Go to the [release](https://github.com/Matlyce/FilesCenter-Releases/releases) page, select the latest version, and download it.<br>
 **2.** Run the setup file and follow the steps on the screen.<br>
 **3.** Once the app is installed, you can run it and enjoy!<br>
